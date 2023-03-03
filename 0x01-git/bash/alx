@@ -1,2 +1,3 @@
-#!/bin/bash
-echo "ALX School is so cool!"
+
+#!/bin/bash<<<<<<< update_script
+echo "ALX School"
